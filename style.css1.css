@@ -1,0 +1,14 @@
+.special {
+    color:brown;
+    font-size: 18px;
+}
+h1 {
+    color:darkred;
+    font-weight: bolder;
+}
+#name {
+    color:indigo;
+    font-weight: 900;
+    font-size: larger;
+    font-style: italic;
+}  
